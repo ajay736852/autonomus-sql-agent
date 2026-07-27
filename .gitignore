@@ -1,0 +1,12 @@
+# Ignore local database files
+*.db
+
+# Ignore environment variable configuration secrets
+.env
+.venv/
+env/
+__pycache__/
+
+# Ignore OS specific temporary metadata files
+.DS_Store
+Thumbs.db
